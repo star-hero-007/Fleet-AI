@@ -1,0 +1,164 @@
+[
+  {
+    "user_id": "bb46d242-0306-4076-b5b9-06c03abcdbbb",
+    "timestamp": "2025-10-16T16:39:30.918764",
+    "question": "What is cat",
+    "answer": "I don't know - this information is not available in the AI Fleet Communication documents.",
+    "document": "Dispatch_Procedure_Guidelines.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "a4cdbbeb-7dfc-42c2-afc3-3ba9c540a609",
+    "timestamp": "2025-10-16T16:40:28.249558",
+    "question": "Give examples of Dispatch_Procedure_Guidelines.",
+    "answer": "Examples of the Dispatch_Procedure_Guidelines based on the provided documents include:\n\n1. **Dispatch Procedure Steps:**\n   - Receive order confirmation from the sales or customer service team.\n   - Verify product availability and packaging requirements.\n   - Prepare dispatch note and verify against the order details.\n   - Assign delivery partner and record tracking number.\n   - Notify customer about shipment details via email or SMS.\n   - Update dispatch record in the system and close the order.\n\n2. **Example Scenario:**\n   - A customer places an order for 20 units of 'Eco-Clean Detergent'. After verifying stock, a dispatch note is created, a delivery partner is assigned, and the customer receives a shipment confirmation email with the tracking number.\n\n3. **Communication Templates:**\n   - **Dispatch Confirmation Email:** \n     - Subject: Your Order #[Order Number] Has Been Dispatched\n     - Body: Dear [Customer Name], Your order #[Order Number] has been dispatched and is on its way. Tracking Number: [Tracking ID] Expected Delivery Date: [Date]. Thank you for shopping with us! Best Regards, ABC Stores Logistics Team.\n\n   - **Delay Notification Message:**\n     - Subject: Update on Your Order #[Order Number]\n     - Body: Dear [Customer Name], We apologize for the delay in dispatching your order #[Order Number]. Our team is resolving the issue, and we expect your order to be shipped by [New Date]. Thank you for your patience. Best Regards, ABC Stores Support Team. \n\nThese examples illustrate the procedures and communication protocols for dispatch operations.",
+    "document": "Dispatch_Procedure_Guidelines.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "8689d67c-827d-4e42-8b93-89415d7c72e5",
+    "timestamp": "2025-10-16T16:42:12.775863",
+    "question": "Give Dispatch_Procedure_Guidelines",
+    "answer": "The Dispatch Procedure & Communication Guidelines are as follows:\n\n1. **Dispatch Procedure**\n   - Receive order confirmation from the sales or customer service team.\n   - Verify product availability and packaging requirements.\n   - Prepare dispatch note and verify against the order details.\n   - Assign delivery partner and record tracking number.\n   - Notify customer about shipment details via email or SMS.\n   - Update dispatch record in the system and close the order.\n\n   Example: A customer places an order for 20 units of 'Eco-Clean Detergent'. After verifying stock, a dispatch note is created, a delivery partner is assigned, and the customer receives a shipment confirmation email with tracking number.\n\n2. **Communication Templates**\n   - **2.1 Dispatch Confirmation Email**\n     - Subject: Your Order #[Order Number] Has Been Dispatched\n     - Body: Dear [Customer Name], Your order #[Order Number] has been dispatched and is on its way. Tracking Number: [Tracking ID] Expected Delivery Date: [Date] Thank you for shopping with us! Best Regards, ABC Stores Logistics Team\n\n   - **2.2 Delay Notification Message**\n     - Subject: Update on Your Order #[Order Number]\n     - Body: Dear [Customer Name], We apologize for the delay in dispatching your order #[Order Number]. Our team is resolving the issue, and we expect your order to be shipped by [New Date]. Thank you for your patience. Best Regards, ABC Stores Support Team\n\n3. **Operational Guidelines**\n   - Maintain updated inventory records at all times.\n   - Double-check addresses and contact details before dispatching.\n   - Ensure packaging meets product safety and company standards.\n   - Keep daily logs of all dispatches, delays,...",
+    "document": "Dispatch_Procedure_Guidelines.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "8689d67c-827d-4e42-8b93-89415d7c72e5",
+    "timestamp": "2025-10-16T16:44:05.320752",
+    "question": "Give Dispatch_Procedure_Guidelines",
+    "answer": "The Dispatch Procedure Guidelines are as follows:\n\n1. **Receive Task Assignment**  \n   Receive delivery, pickup, or route instructions from the operations or logistics system.\n\n2. **Check Vehicle and Driver Availability**  \n   Confirm the assigned driver is available and the vehicle is road-ready with no outstanding maintenance issues.\n\n3. **Assign Task and Generate Dispatch Note**  \n   Assign the job to the selected driver and vehicle. Generate a digital dispatch note including delivery address, route, contact details, and cargo specifications.\n\n4. **Send Communication to Driver**  \n   Use the automated communication module to send route instructions, time windows, and safety reminders via in-app message or SMS.\n\n5. **Track Vehicle Status**  \n   Monitor vehicle location, ETA, and route compliance via GPS/telematics. Set up alerts for delays, deviations, or stoppages.\n\n6. **Update Dispatch Logs**  \n   Record all dispatch-related activities in the central dispatch management system.\n\n7. **Close Dispatch Upon Completion**  \n   Confirm successful delivery or pickup. Update status to \"Completed\" and log any exceptions or incidents.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "8689d67c-827d-4e42-8b93-89415d7c72e5",
+    "timestamp": "2025-10-16T16:44:59.356664",
+    "question": "Proporcione las Directrices del Procedimiento de Despacho",
+    "answer": "1. **Recepción de Asignación de Tarea**  \n   Recibir instrucciones de entrega, recogida o ruta del sistema de operaciones o logística.\n\n2. **Verificación de Disponibilidad del Vehículo y del Conductor**  \n   Confirmar que el conductor asignado esté disponible y que el vehículo esté listo para la carretera sin problemas de mantenimiento pendientes.\n\n3. **Asignación de Tarea y Generación de Nota de Despacho**  \n   Asignar el trabajo al conductor y vehículo seleccionados. Generar una nota de despacho digital que incluya la dirección de entrega, ruta, detalles de contacto y especificaciones de carga.\n\n4. **Comunicación al Conductor**  \n   Utilizar el módulo de comunicación automatizada para enviar instrucciones de ruta, ventanas de tiempo y recordatorios de seguridad a través de mensaje en la aplicación o SMS.\n\n5. **Seguimiento del Estado del Vehículo**  \n   Monitorear la ubicación del vehículo, ETA y cumplimiento de ruta a través de GPS/telemática. Configurar alertas para retrasos, desviaciones o paradas.\n\n6. **Actualización de Registros de Despacho**  \n   Registrar todas las actividades relacionadas con el despacho en el sistema de gestión de despacho central.\n\n7. **Cierre del Despacho al Completar**  \n   Confirmar la entrega o recogida exitosa. Actualizar el estado a \"Completado\" y registrar cualquier excepción o incidente.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "Spanish"
+  },
+  {
+    "user_id": "8689d67c-827d-4e42-8b93-89415d7c72e5",
+    "timestamp": "2025-10-16T16:48:34.828212",
+    "question": "Chennai to Thiruvotriyur bus give timing",
+    "answer": "El horario del autobús de Chennai a Thiruvotriyur es el siguiente:\n\n- **Salida:** 06:00 AM\n- **Llegada:** 07:15 AM\n\nLas paradas clave son: AMBroadway, Adyar, Mylapore, Royapettah.",
+    "document": "timing.pdf",
+    "version": 1,
+    "language": "Spanish"
+  },
+  {
+    "user_id": "a4cdbbeb-7dfc-42c2-afc3-3ba9c540a609",
+    "timestamp": "2025-10-16T17:07:31.712940",
+    "question": "Give examples of Dispatch_Procedure_Guidelines.",
+    "answer": "Voici des exemples de directives de procédure de dispatch :\n\n1. **Recevoir l'assignation de tâche** : Recevoir des instructions de livraison, de ramassage ou de route du système d'opérations ou de logistique.\n\n2. **Vérifier la disponibilité du véhicule et du conducteur** : Confirmer que le conducteur assigné est disponible et que le véhicule est prêt à prendre la route sans problèmes de maintenance en suspens.\n\n3. **Assigner la tâche et générer une note de dispatch** : Assigner le travail au conducteur et au véhicule sélectionnés. Générer une note de dispatch numérique comprenant l'adresse de livraison, l'itinéraire, les coordonnées et les spécifications de la cargaison.\n\n4. **Envoyer la communication au conducteur** : Utiliser le module de communication automatisé pour envoyer au conducteur des instructions d'itinéraire, des fenêtres temporelles et des rappels de sécurité via un message dans l'application ou par SMS.\n\n5. **Suivre l'état du véhicule** : Surveiller la localisation du véhicule, l'heure d'arrivée estimée (ETA) et la conformité à l'itinéraire via GPS/télématique. Mettre en place des alertes pour les retards, les déviations ou les arrêts.\n\n6. **Mettre à jour les journaux de dispatch** : Enregistrer toutes les activités liées au dispatch dans le système de gestion des dispatchs central.\n\n7. **Clore le dispatch après l'achèvement** : Confirmer la livraison ou le ramassage réussi. Mettre à jour le statut à \"Complété\" et enregistrer toute exception ou incident.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "French"
+  },
+  {
+    "user_id": "72383853-2ebb-4f75-99e2-c437baf91a87",
+    "timestamp": "2025-10-16T17:40:47.205834",
+    "question": "Give Dispatch_Procedure_Guidelines",
+    "answer": "The Dispatch Procedure Guidelines based on the reference documents are as follows:\n\n1. **Receive Task Assignment**  \n   Receive delivery, pickup, or route instructions from the operations or logistics system.\n\n2. **Check Vehicle and Driver Availability**  \n   Confirm the assigned driver is available and the vehicle is road-ready with no outstanding maintenance issues.\n\n3. **Assign Task and Generate Dispatch Note**  \n   Assign the job to the selected driver and vehicle. Generate a digital dispatch note including delivery address, route, contact details, and cargo specifications.\n\n4. **Send Communication to Driver**  \n   Use the automated communication module to send route instructions, time windows, and safety reminders via in-app message or SMS.\n\n5. **Track Vehicle Status**  \n   Monitor vehicle location, ETA, and route compliance via GPS/telematics. Set up alerts for delays, deviations, or stoppages.\n\n6. **Update Dispatch Logs**  \n   Record all dispatch-related activities in the central dispatch management system.\n\n7. **Close Dispatch Upon Completion**  \n   Confirm successful delivery or pickup. Update status to \"Completed\" and log any exceptions or incidents. \n\nThis outlines the standard procedure for dispatching vehicles in a fleet, ensuring efficiency, safety, and seamless coordination between fleet managers and drivers.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "72383853-2ebb-4f75-99e2-c437baf91a87",
+    "timestamp": "2025-10-16T17:42:09.472545",
+    "question": "Give Dispatch_Procedure_Guidelines",
+    "answer": "Procedimiento de Despacho de Flota:  \n\n1. **Recepción de Asignación de Tarea**  \n   Recibir instrucciones de entrega, recogida o ruta del sistema de operaciones o logística.  \n\n2. **Verificar Disponibilidad de Vehículo y Conductor**  \n   Confirmar que el conductor asignado está disponible y que el vehículo está listo para la carretera sin problemas de mantenimiento pendientes.  \n\n3. **Asignar Tarea y Generar Nota de Despacho**  \n   Asignar el trabajo al conductor y vehículo seleccionados. Generar una nota de despacho digital que incluya la dirección de entrega, ruta, detalles de contacto y especificaciones de la carga.  \n\n4. **Enviar Comunicación al Conductor**  \n   Utilizar el módulo de comunicación automatizado para enviar instrucciones de ruta, ventanas de tiempo y recordatorios de seguridad a través de mensaje en la aplicación o SMS.  \n\n5. **Rastrear el Estado del Vehículo**  \n   Monitorear la ubicación del vehículo, ETA y cumplimiento de la ruta a través de GPS/telemática. Configurar alertas para retrasos, desviaciones o paradas.  \n\n6. **Actualizar Registros de Despacho**  \n   Registrar todas las actividades relacionadas con el despacho en el sistema central de gestión de despachos.  \n\n7. **Cerrar Despacho al Completar**  \n   Confirmar la entrega o recogida exitosa. Actualizar el estado a \"Completo\" y registrar cualquier excepción o incidente.  ",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "Spanish"
+  },
+  {
+    "user_id": "72383853-2ebb-4f75-99e2-c437baf91a87",
+    "timestamp": "2025-10-16T17:44:55.389267",
+    "question": "Give me timings of route1",
+    "answer": "No sé - esta información no está disponible en los documentos de comunicación de la flota de IA.",
+    "document": "handbook_mtc.pdf",
+    "version": 1,
+    "language": "Spanish"
+  },
+  {
+    "user_id": "72383853-2ebb-4f75-99e2-c437baf91a87",
+    "timestamp": "2025-10-16T17:45:38.499379",
+    "question": "Give me timings of route1 ",
+    "answer": "I don't know - this information is not available in the AI Fleet Communication documents.",
+    "document": "handbook_mtc.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "72383853-2ebb-4f75-99e2-c437baf91a87",
+    "timestamp": "2025-10-16T17:46:55.488400",
+    "question": "avadi to thiruvanmayur ",
+    "answer": "I don't know - this information is not available in the AI Fleet Communication documents.",
+    "document": "handbook_mtc.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "72383853-2ebb-4f75-99e2-c437baf91a87",
+    "timestamp": "2025-10-16T17:47:27.325467",
+    "question": "avadi to thiruvanmaiyur ",
+    "answer": "I don't know - this information is not available in the AI Fleet Communication documents.",
+    "document": "handbook_mtc.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "7aac44d2-c3fb-4c06-bfb2-2036e69a78de",
+    "timestamp": "2025-10-16T17:50:26.442017",
+    "question": "Give Dispatch_Procedure_Guidelines",
+    "answer": "The Dispatch Procedure Guidelines are as follows:\n\n1. **Receive Task Assignment**: Receive delivery, pickup, or route instructions from the operations or logistics system.\n\n2. **Check Vehicle and Driver Availability**: Confirm the assigned driver is available and the vehicle is road-ready with no outstanding maintenance issues.\n\n3. **Assign Task and Generate Dispatch Note**: Assign the job to the selected driver and vehicle. Generate a digital dispatch note including delivery address, route, contact details, and cargo specifications.\n\n4. **Send Communication to Driver**: Use the automated communication module to send route instructions, time windows, and safety reminders via in-app message or SMS.\n\n5. **Track Vehicle Status**: Monitor vehicle location, ETA, and route compliance via GPS/telematics. Set up alerts for delays, deviations, or stoppages.\n\n6. **Update Dispatch Logs**: Record all dispatch-related activities in the central dispatch management system.\n\n7. **Close Dispatch Upon Completion**: Confirm successful delivery or pickup. Update status to \"Completed\" and log any exceptions or incidents. \n\nThese guidelines are designed to ensure efficiency, safety, and seamless coordination between fleet managers and drivers.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "7aac44d2-c3fb-4c06-bfb2-2036e69a78de",
+    "timestamp": "2025-10-16T17:50:45.020749",
+    "question": "Give Dispatch_Procedure_Guidelines ",
+    "answer": "Las Directrices del Procedimiento de Despacho son las siguientes:\n\n1. **Recepción de la Asignación de Tarea**  \n   Recibir instrucciones de entrega, recogida o ruta desde el sistema de operaciones o logística.\n\n2. **Verificación de Disponibilidad de Vehículos y Conductores**  \n   Confirmar que el conductor asignado está disponible y que el vehículo está listo para la carretera sin problemas de mantenimiento pendientes.\n\n3. **Asignación de Tarea y Generación de Nota de Despacho**  \n   Asignar el trabajo al conductor y vehículo seleccionados. Generar una nota de despacho digital que incluya la dirección de entrega, ruta, detalles de contacto y especificaciones de la carga.\n\n4. **Enviar Comunicación al Conductor**  \n   Utilizar el módulo de comunicación automatizado para enviar instrucciones de ruta, ventanas de tiempo y recordatorios de seguridad a través de un mensaje en la aplicación o SMS.\n\n5. **Rastrear el Estado del Vehículo**  \n   Monitorear la ubicación del vehículo, ETA (tiempo estimado de llegada) y cumplimiento de la ruta a través de GPS/telemática. Configurar alertas para retrasos, desviaciones o paradas.\n\n6. **Actualizar Registros de Despacho**  \n   Registrar todas las actividades relacionadas con el despacho en el sistema central de gestión de despachos.\n\n7. **Cerrar Despacho al Completar**  \n   Confirmar la entrega o recogida exitosa. Actualizar el estado a \"Completado\" y registrar cualquier excepción o incidente.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "Spanish"
+  },
+  {
+    "user_id": "7aac44d2-c3fb-4c06-bfb2-2036e69a78de",
+    "timestamp": "2025-10-16T18:02:35.879505",
+    "question": "Give Dispatch_Procedure_Guidelines",
+    "answer": "Las Directrices del Procedimiento de Despacho son las siguientes:\n\n1. **Recepción de Asignación de Tarea**  \n   Recibir instrucciones de entrega, recogida o ruta del sistema de operaciones o logística.\n\n2. **Verificación de Disponibilidad de Vehículo y Conductor**  \n   Confirmar que el conductor asignado está disponible y que el vehículo está listo para circular sin problemas de mantenimiento pendientes.\n\n3. **Asignación de Tarea y Generación de Nota de Despacho**  \n   Asignar el trabajo al conductor y vehículo seleccionados. Generar una nota de despacho digital que incluya la dirección de entrega, la ruta, los detalles de contacto y las especificaciones de la carga.\n\n4. **Comunicación con el Conductor**  \n   Utilizar el módulo de comunicación automatizado para enviar instrucciones de ruta, ventanas de tiempo y recordatorios de seguridad a través de un mensaje en la aplicación o SMS.\n\n5. **Seguimiento del Estado del Vehículo**  \n   Monitorizar la ubicación del vehículo, el tiempo estimado de llegada (ETA) y el cumplimiento de la ruta mediante GPS/telemática. Configurar alertas para retrasos, desviaciones o paradas.\n\n6. **Actualización de Registros de Despacho**  \n   Registrar todas las actividades relacionadas con el despacho en el sistema central de gestión de despachos.\n\n7. **Cierre del Despacho al Completar**  \n   Confirmar la entrega o recogida exitosa. Actualizar el estado a \"Completo\" y registrar cualquier excepción o incidente.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "Spanish"
+  },
+  {
+    "user_id": "7aac44d2-c3fb-4c06-bfb2-2036e69a78de",
+    "timestamp": "2025-10-16T18:04:08.457267",
+    "question": "Give Dispatch_Procedure_Guidelines",
+    "answer": "The Dispatch Procedure Guidelines based on the provided reference document are as follows:\n\n1. **Receive Task Assignment**: Receive delivery, pickup, or route instructions from the operations or logistics system.\n\n2. **Check Vehicle and Driver Availability**: Confirm that the assigned driver is available and the vehicle is road-ready with no outstanding maintenance issues.\n\n3. **Assign Task and Generate Dispatch Note**: Assign the job to the selected driver and vehicle. Generate a digital dispatch note including delivery address, route, contact details, and cargo specifications.\n\n4. **Send Communication to Driver**: Use the automated communication module to send route instructions, time windows, and safety reminders via in-app message or SMS.\n\n5. **Track Vehicle Status**: Monitor vehicle location, ETA, and route compliance via GPS/telematics. Set up alerts for delays, deviations, or stoppages.\n\n6. **Update Dispatch Logs**: Record all dispatch-related activities in the central dispatch management system.\n\n7. **Close Dispatch Upon Completion**: Confirm successful delivery or pickup. Update status to \"Completed\" and log any exceptions or incidents.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "English"
+  },
+  {
+    "user_id": "7aac44d2-c3fb-4c06-bfb2-2036e69a78de",
+    "timestamp": "2025-10-16T18:05:10.579466",
+    "question": "Proporcione las Directrices del Procedimiento de Despacho",
+    "answer": "The Dispatch Procedure guidelines are as follows:\n\n1. **Receive Task Assignment**: Receive delivery, pickup, or route instructions from the operations or logistics system.\n\n2. **Check Vehicle and Driver Availability**: Confirm the assigned driver is available and the vehicle is road-ready with no outstanding maintenance issues.\n\n3. **Assign Task and Generate Dispatch Note**: Assign the job to the selected driver and vehicle. Generate a digital dispatch note including delivery address, route, contact details, and cargo specifications.\n\n4. **Send Communication to Driver**: Use the automated communication module to send route instructions, time windows, and safety reminders via in-app message or SMS.\n\n5. **Track Vehicle Status**: Monitor vehicle location, ETA, and route compliance via GPS/telematics. Set up alerts for delays, deviations, or stoppages.\n\n6. **Update Dispatch Logs**: Record all dispatch-related activities in the central dispatch management system.\n\n7. **Close Dispatch Upon Completion**: Confirm successful delivery or pickup. Update status to \"Completed\" and log any exceptions or incidents.",
+    "document": "Manual.pdf",
+    "version": 1,
+    "language": "English"
+  }
+]
